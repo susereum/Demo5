@@ -116,6 +116,131 @@ class HealthTransactionHandler(TransactionHandler):
 
         _display("transaction {},{} created".
                  format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))_display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
+        _display("transaction {},{} created".
+                 format(health_payload.txn_type, health_payload.data))
 
 def _display(msg):
     n = msg.count("\n")
